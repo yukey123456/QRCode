@@ -30,6 +30,7 @@ namespace GetQRCode
             btnSaveBmp.Enabled = true;
 
             //Anh nhan dep trai sieu cap vo dich ----------------------
+            //Dep cc ngu nhu con cho
         }
 
         private void btnExit_Click(object sender, EventArgs e)
