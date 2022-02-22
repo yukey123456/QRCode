@@ -1,0 +1,12 @@
+C:\Users\Windows 10\source\repos\GetQRCode\bin\Debug\GetQRCode.exe.config
+C:\Users\Windows 10\source\repos\GetQRCode\bin\Debug\GetQRCode.exe
+C:\Users\Windows 10\source\repos\GetQRCode\bin\Debug\GetQRCode.pdb
+C:\Users\Windows 10\source\repos\GetQRCode\bin\Debug\QRCoder.dll
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.Form1.resources
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.exe
+C:\Users\Windows 10\source\repos\GetQRCode\obj\Debug\GetQRCode.pdb
