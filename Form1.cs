@@ -31,7 +31,7 @@ namespace GetQRCode
 
             //Anh nhan dep trai sieu cap vo dich ----------------------
             //Dep cc ngu nhu con cho
-        }
+        }//yeahhhhh
 
         private void btnExit_Click(object sender, EventArgs e)
         {
