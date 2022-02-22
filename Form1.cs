@@ -29,6 +29,7 @@ namespace GetQRCode
             pbQr.Image = qRCodeImage;
             btnSaveBmp.Enabled = true;
 
+            //Anh nhan dep trai sieu cap vo dich
         }
 
         private void btnExit_Click(object sender, EventArgs e)
